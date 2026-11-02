@@ -49,7 +49,7 @@ La governance viene prima di tutto. Nessuno strumento o agente entra in azienda 
 
 ## Chi siamo
 
-- **Marcello Gamberale Paoletti**, co-founder
+- **Marcello Gamberale Paoletti**, co-founder ([@innovation-metodica-ai](https://github.com/innovation-metodica-ai))
 - **Gianmaria Dalboni**, co-founder ([@PKGreenHouse](https://github.com/PKGreenHouse))
 
 ## Parliamone
